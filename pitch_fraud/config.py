@@ -2,7 +2,7 @@
 
 REVEAL_META = {
     # Title of the slide
-    'title': 'NER info',
+    'title': 'Big Fish info',
 
     # Author in the metadata of the slide
     'author': 'The Insighters - Capgemini Consulting',

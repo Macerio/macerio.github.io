@@ -345,6 +345,8 @@ h3 {
 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
+
+				{ src: '../reveald3.js' },
 				// Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
 				{ src: '../../lib/js/classList.js', condition: function() { return !document.body.classList; } },
 
@@ -378,8 +380,7 @@ h3 {
 				{ src: '../../plugin/chartjs/charted.js'}, // This is the plugin
 				// vis
 				{ src: '../../plugin/visjs/dist/vis.js', async: false},
-				{ src: './graphs.js', async: true},
-				{ src: 'plugin/reveald3.js' }
+				{ src: './graphs.js', async: true}
 				]
 
 			});

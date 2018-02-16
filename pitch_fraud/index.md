@@ -50,8 +50,13 @@ __*FEBRUARY 2018*__
 ##### <font color=#00BFFF> Isn't it better ? </font> <br> <br> <br>
 <!-- 
 <div class="fig-container"
-         data-file="d3-fig/eclipses.html"></div> --> <!-- path to the html file with visualization code -->		
-<img src="./images/graphe.jpg" style="box-shadow: 0px 0px; float:right; padding:30px;">
+         data-file="d3-fig/eclipses.html"></div> --> <!-- path to the html file with visualization code -->	
+
+<!-- <iframe style="overflow:hidden;margin:5px 5px auto auto;" class="stretch" scrolling="no" id="chart-frame-1" data-chart></iframe>	 -->
+
+<div id="mynetwork" height:250px></div>
+<div id="blubber" class="fragment"></div>
+<!-- <img src="./images/graphe.jpg" style="box-shadow: 0px 0px; float:right; padding:30px;"> -->
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
@@ -187,10 +192,14 @@ Easily portable anywhere, Easily integrable to legacy <br>
 
 ---
 <br>
-**** Next step
+** Next step **
 
 - We are looking for a UX designer
 
 - How about colaborating with a Startup that worked on a User Friendly Graph Interface as Likurious ? 
+
+<br>
+<br>
+<br>
 
 ###### <a href="http://appstore.capinsighters.com/"> Back to appstore </a>
